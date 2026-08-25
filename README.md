@@ -1,10 +1,10 @@
 # 🌐 Pooja Saran | Portfolio
 
-Data Analyst | Web Developer | Computer Science Engineering Student
+Data Analyst | Software Developer | Computer Science Engineering Student
 
 A responsive personal portfolio built with HTML, CSS, and JavaScript, showcasing my projects, technical skills, certifications, and experience in Data Analytics and Web Development.
 
-> Actively seeking Full-job and Internship opportunities in Data Analytics and Web Development.
+> Actively seeking Full-job and Internship opportunities in Data Analytics and Software Development.
 
 ---
 
